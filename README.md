@@ -18,7 +18,7 @@ This project is a simple **Finance Management** command-line interface (CLI) app
 
   - Clone the repository:
     ```bash
-      https://github.com/gaborvida-stack/Finance-Management-CLI-Application.git
+      git clone https://github.com/gaborvida-stack/Finance-Management-CLI-Application.git
     ```
     ```bash
       cd Finance-Management-CLI-Application
