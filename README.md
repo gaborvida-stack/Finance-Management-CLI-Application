@@ -55,7 +55,7 @@ This project is a simple **Finance Management** command-line interface (CLI) app
 
 
 ## Database Structure
-  - The application uses an SQLite database (finance_data.db) with a single table transactions, which stores:
+  - The application uses an `SQLite` database (finance_data.db) with a single table transactions, which stores:
     - id: Unique identifier for each transaction.
     - amount: The monetary value of the transaction.
     - type: Whether the transaction is "income" or "expend".
