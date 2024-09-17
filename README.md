@@ -10,9 +10,9 @@ This project is a simple **Finance Management** command-line interface (CLI) app
 
 ## Requirements
 - Python 3 (or higher)
-- `SQLite`
-- `Pandas`
-- `Matplotlib`
+- `sqlite3`
+- `pandas`
+- `matplotlib`
 
 ## Installation
 
