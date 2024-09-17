@@ -7,6 +7,7 @@ This project is a simple **Finance Management** command-line interface (CLI) app
 - View a summary of all transactions.
 - Visualize income vs. expenses using bar charts and pie charts.
 - Clear transaction history.
+- The application uses an `SQLite` database (finance_data.db)
 
 ## Requirements
 - Python 3 (or higher)
@@ -54,8 +55,3 @@ This project is a simple **Finance Management** command-line interface (CLI) app
     - Two plots will be generated, one showing the total income vs. expenses as a bar chart, and another showing their distribution as a pie chart.
 
 
-## Database Structure
-  - The application uses an `SQLite` database (finance_data.db) with a single table transactions, which stores:
-    - id: Unique identifier for each transaction.
-    - amount: The monetary value of the transaction.
-    - type: Whether the transaction is "income" or "expend".
