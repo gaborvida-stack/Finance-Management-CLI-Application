@@ -9,10 +9,10 @@ This project is a simple **Finance Management** command-line interface (CLI) app
 - Clear transaction history.
 
 ## Requirements
-- Python 3.x
-- SQLite (comes bundled with Python)
-- Pandas
-- Matplotlib
+- Python 3 (or higher)
+- `SQLite`
+- `Pandas`
+- `Matplotlib`
 
 ## Installation
 
