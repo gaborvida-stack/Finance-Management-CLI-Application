@@ -1,3 +1,2 @@
-sqlite3
-pandas
-matplotlib
+pandas==1.5.3
+matplotlib==3.6.3
